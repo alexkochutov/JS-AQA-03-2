@@ -1,0 +1,15 @@
+{
+  "name": "js-aqa-03-2",
+  "version": "1.0.0",
+  "description": "js-aqa-03-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Aleksandr Kochutov",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0",
+    "playwright": "^1.30.0"
+  }
+}
